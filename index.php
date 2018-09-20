@@ -3,6 +3,7 @@
 require_once("vendor/autoload.php");
 use \Hcode\DB\Sql;
 use \Slim\Slim;
+use \testando\Teste;
 
 $app = new Slim();
 
